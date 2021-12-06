@@ -1,0 +1,1026 @@
+net.optimized_memory = 0 
+mini_batch = 1, batch = 1, time_steps = 1, train = 0 
+Create CUDA-stream - 0 
+ Create cudnn-handle 0 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+
+ seen 64, trained: 96 K-images (1 Kilo-batches_64) 
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images100_jpg.rf.74df10fa2373bb077ddfa0eb751053ed.jpg: Predicted in 101.659000 milli-seconds.
+cal3: 81%	(left_x:   15   top_y:  256   width:   39   height:   37)
+tip: 82%	(left_x:   57   top_y:  211   width:   22   height:   21)
+cal1: 90%	(left_x:  120   top_y:   16   width:   42   height:   41)
+center: 90%	(left_x:  196   top_y:  183   width:   33   height:   34)
+cal2: 93%	(left_x:  361   top_y:  115   width:   33   height:   37)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-65-_jpg.rf.09a9e280641823f319c5c950058bc8d9.jpg: Predicted in 96.158000 milli-seconds.
+cal3: 97%	(left_x:   16   top_y:  183   width:   28   height:   23)
+tip: 95%	(left_x:  216   top_y:  183   width:   22   height:   22)
+tip: 49%	(left_x:  219   top_y:  190   width:   26   height:   25)
+center: 36%	(left_x:  219   top_y:  190   width:   26   height:   25)
+cal1: 99%	(left_x:  223   top_y:   33   width:   27   height:   21)
+center: 93%	(left_x:  226   top_y:  196   width:   22   height:   21)
+cal4: 95%	(left_x:  233   top_y:  384   width:   15   height:   25)
+tip: 84%	(left_x:  299   top_y:  260   width:   30   height:   18)
+cal2: 97%	(left_x:  395   top_y:  208   width:   12   height:   18)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_20_jpg.rf.c589096d2ba9c3e2c091a31f0de605d0.jpg: Predicted in 90.935000 milli-seconds.
+cal3: 83%	(left_x:    5   top_y:  163   width:   26   height:   24)
+tip: 83%	(left_x:   70   top_y:  232   width:   27   height:   25)
+cal4: 88%	(left_x:  153   top_y:  312   width:   37   height:   23)
+cal1: 92%	(left_x:  165   top_y:   25   width:   37   height:   26)
+center: 72%	(left_x:  166   top_y:  168   width:   23   height:   22)
+cal2: 82%	(left_x:  325   top_y:  165   width:   27   height:   32)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images66_jpg.rf.e4dedaf71751aa1a3ff7c6d32c7ba0a6.jpg: Predicted in 83.833000 milli-seconds.
+cal4: 88%	(left_x:   49   top_y:  312   width:   36   height:   32)
+cal3: 76%	(left_x:   71   top_y:   62   width:   29   height:   29)
+tip: 83%	(left_x:  149   top_y:   87   width:   29   height:   38)
+center: 90%	(left_x:  188   top_y:  166   width:   46   height:   42)
+tip: 71%	(left_x:  230   top_y:  304   width:   26   height:   23)
+cal1: 93%	(left_x:  297   top_y:   59   width:   36   height:   31)
+cal2: 74%	(left_x:  344   top_y:  303   width:   33   height:   37)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-96-_jpg.rf.1d902de05db690258d3fcc1341435a81.jpg: Predicted in 83.084000 milli-seconds.
+cal3: 99%	(left_x:   10   top_y:  202   width:   23   height:   20)
+tip: 82%	(left_x:  161   top_y:  220   width:   15   height:   13)
+cal1: 94%	(left_x:  198   top_y:   38   width:   26   height:   19)
+center: 99%	(left_x:  199   top_y:  204   width:   22   height:   20)
+tip: 72%	(left_x:  200   top_y:  270   width:   24   height:   18)
+cal4: 88%	(left_x:  201   top_y:  386   width:   15   height:   23)
+cal2: 99%	(left_x:  389   top_y:  204   width:   16   height:   21)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images63_jpg.rf.088840d6e61b4571300153531473a0cb.jpg: Predicted in 75.193000 milli-seconds.
+cal4: 64%	(left_x:   45   top_y:  315   width:   35   height:   33)
+cal3: 65%	(left_x:   71   top_y:   63   width:   29   height:   29)
+tip: 81%	(left_x:  150   top_y:   91   width:   27   height:   36)
+center: 50%	(left_x:  190   top_y:  172   width:   33   height:   33)
+tip: 75%	(left_x:  195   top_y:  171   width:   31   height:   33)
+tip: 57%	(left_x:  200   top_y:  169   width:   20   height:   26)
+cal1: 85%	(left_x:  298   top_y:   63   width:   32   height:   28)
+cal2: 70%	(left_x:  334   top_y:  307   width:   32   height:   35)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_81_jpg.rf.7ae29dcb8cbba335d65a23db9d523647.jpg: Predicted in 74.733000 milli-seconds.
+cal3: 74%	(left_x:    5   top_y:  147   width:   35   height:   30)
+tip: 75%	(left_x:  109   top_y:  248   width:   31   height:   25)
+cal4: 75%	(left_x:  174   top_y:  291   width:   43   height:   22)
+center: 60%	(left_x:  193   top_y:  158   width:   26   height:   22)
+cal1: 90%	(left_x:  197   top_y:   24   width:   41   height:   23)
+tip: 61%	(left_x:  281   top_y:   51   width:   32   height:   32)
+cal2: 84%	(left_x:  373   top_y:  157   width:   34   height:   32)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_1_jpg.rf.1c4452f6375af913fb43beeb7d60a7ed.jpg: Predicted in 72.997000 milli-seconds.
+cal3: 85%	(left_x:    6   top_y:  158   width:   29   height:   32)
+tip: 80%	(left_x:   80   top_y:  224   width:   26   height:   26)
+tip: 66%	(left_x:  110   top_y:   64   width:   26   height:   25)
+cal4: 89%	(left_x:  161   top_y:  314   width:   35   height:   22)
+center: 80%	(left_x:  174   top_y:  168   width:   23   height:   22)
+cal1: 87%	(left_x:  176   top_y:   24   width:   37   height:   25)
+cal2: 80%	(left_x:  340   top_y:  167   width:   29   height:   31)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/output23_jpg.rf.c6c37b56d56baffc28d6cff97115528e.jpg: Predicted in 73.095000 milli-seconds.
+cal3: 85%	(left_x:   76   top_y:  346   width:   33   height:   26)
+cal1: 93%	(left_x:   93   top_y:  222   width:   28   height:   14)
+tip: 26%	(left_x:  111   top_y:   -0   width:   26   height:   24)
+tip: 79%	(left_x:  165   top_y:  261   width:   15   height:   28)
+center: 84%	(left_x:  191   top_y:  261   width:   24   height:   17)
+tip: 41%	(left_x:  223   top_y:    0   width:   26   height:   19)
+cal2: 63%	(left_x:  258   top_y:  204   width:   16   height:   16)
+tip: 79%	(left_x:  267   top_y:  223   width:   14   height:   24)
+tip: 26%	(left_x:  268   top_y:  219   width:   14   height:   22)
+cal4: 71%	(left_x:  330   top_y:  316   width:   26   height:   20)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_74_jpg.rf.85331133bc9813203b295d5026343a31.jpg: Predicted in 72.036000 milli-seconds.
+cal3: 92%	(left_x:    5   top_y:  151   width:   31   height:   32)
+tip: 75%	(left_x:  100   top_y:   47   width:   33   height:   26)
+cal4: 61%	(left_x:  163   top_y:  309   width:   36   height:   24)
+cal1: 89%	(left_x:  172   top_y:    7   width:   36   height:   25)
+center: 58%	(left_x:  174   top_y:  155   width:   25   height:   24)
+cal2: 85%	(left_x:  340   top_y:  153   width:   29   height:   32)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images58_jpg.rf.650d52ebfc3e3d0c446cf3a1d5cdd001.jpg: Predicted in 71.895000 milli-seconds.
+cal1: 79%	(left_x:   38   top_y:  139   width:   30   height:   39)
+tip: 64%	(left_x:   65   top_y:  134   width:   24   height:   31)
+cal3: 94%	(left_x:  180   top_y:  368   width:   38   height:   46)
+center: 85%	(left_x:  191   top_y:  153   width:   40   height:   42)
+cal2: 76%	(left_x:  207   top_y:    6   width:   26   height:   25)
+tip: 71%	(left_x:  331   top_y:  224   width:   21   height:   28)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images12_jpg.rf.6d8c13692e6df6180d4cd3caefc967de.jpg: Predicted in 72.139000 milli-seconds.
+cal2: 71%	(left_x:   56   top_y:   66   width:   28   height:   34)
+cal1: 97%	(left_x:   77   top_y:  334   width:   53   height:   51)
+tip: 90%	(left_x:  127   top_y:  183   width:   25   height:   35)
+center: 91%	(left_x:  196   top_y:  148   width:   39   height:   37)
+tip: 84%	(left_x:  202   top_y:  148   width:   23   height:   32)
+cal4: 65%	(left_x:  278   top_y:   22   width:   23   height:   28)
+cal3: 63%	(left_x:  369   top_y:  247   width:   36   height:   56)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_65_jpg.rf.ace105988ffb5397b9e34883472869ea.jpg: Predicted in 72.218000 milli-seconds.
+cal3: 90%	(left_x:    5   top_y:  157   width:   35   height:   31)
+cal4: 81%	(left_x:  173   top_y:  314   width:   44   height:   23)
+center: 84%	(left_x:  192   top_y:  167   width:   27   height:   26)
+cal1: 94%	(left_x:  198   top_y:   24   width:   39   height:   25)
+tip: 69%	(left_x:  205   top_y:  206   width:   33   height:   30)
+cal2: 93%	(left_x:  375   top_y:  172   width:   34   height:   30)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-78-_jpg.rf.eb74f85059d35a3b9323eb0bb8173ed1.jpg: Predicted in 72.193000 milli-seconds.
+cal3: 76%	(left_x:   10   top_y:  238   width:   24   height:   19)
+tip: 81%	(left_x:  125   top_y:  265   width:   17   height:   25)
+cal1: 98%	(left_x:  184   top_y:   60   width:   29   height:   23)
+center: 99%	(left_x:  191   top_y:  243   width:   22   height:   19)
+cal4: 98%	(left_x:  197   top_y:  395   width:   14   height:   16)
+tip: 49%	(left_x:  238   top_y:  240   width:   19   height:   19)
+cal2: 98%	(left_x:  386   top_y:  250   width:   16   height:   22)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-76-_jpg.rf.ee7468ae7cbc00a5d80d4d43cc3e11bf.jpg: Predicted in 72.153000 milli-seconds.
+cal3: 97%	(left_x:   12   top_y:  210   width:   22   height:   19)
+tip: 72%	(left_x:  134   top_y:  235   width:   16   height:   17)
+tip: 33%	(left_x:  135   top_y:  232   width:   14   height:   14)
+cal1: 99%	(left_x:  196   top_y:   42   width:   26   height:   19)
+center: 97%	(left_x:  198   top_y:  211   width:   22   height:   20)
+cal4: 97%	(left_x:  200   top_y:  387   width:   14   height:   20)
+tip: 84%	(left_x:  250   top_y:  196   width:   17   height:   14)
+cal2: 99%	(left_x:  388   top_y:  211   width:   17   height:   22)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-24-_jpg.rf.88690d31ccadf68608e6f01c3ae5d717.jpg: Predicted in 72.217000 milli-seconds.
+cal3: 67%	(left_x:    8   top_y:  216   width:   18   height:   14)
+tip: 86%	(left_x:  116   top_y:   72   width:   31   height:   31)
+cal4: 96%	(left_x:  145   top_y:  383   width:   16   height:   22)
+center: 99%	(left_x:  161   top_y:  219   width:   22   height:   18)
+cal1: 98%	(left_x:  174   top_y:   69   width:   27   height:   18)
+tip: 80%	(left_x:  217   top_y:  289   width:   20   height:   18)
+cal2: 96%	(left_x:  378   top_y:  225   width:   21   height:   22)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-123-_jpg.rf.abbb8f86da55bf729929d162348c9aaa.jpg: Predicted in 71.870000 milli-seconds.
+cal3: 52%	(left_x:    0   top_y:  209   width:    6   height:   21)
+cal1: 97%	(left_x:  195   top_y:   40   width:   31   height:   18)
+center: 80%	(left_x:  202   top_y:  206   width:   25   height:   19)
+cal4: 99%	(left_x:  211   top_y:  387   width:   18   height:   22)
+tip: 98%	(left_x:  211   top_y:  254   width:   19   height:   16)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images44_jpg.rf.6ee15ad1781074f9cd0dfd765e0a338e.jpg: Predicted in 70.904000 milli-seconds.
+cal3: 65%	(left_x:   50   top_y:  299   width:   36   height:   48)
+cal1: 55%	(left_x:   80   top_y:   30   width:   38   height:   41)
+tip: 51%	(left_x:  123   top_y:  147   width:   26   height:   30)
+center: 85%	(left_x:  195   top_y:  153   width:   49   height:   43)
+tip: 90%	(left_x:  250   top_y:  132   width:   19   height:   30)
+cal2: 64%	(left_x:  320   top_y:   48   width:   26   height:   28)
+cal4: 89%	(left_x:  345   top_y:  306   width:   31   height:   35)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-30-_jpg.rf.c6d4e59254f154b75ea20bacc8f54628.jpg: Predicted in 71.210000 milli-seconds.
+cal3: 98%	(left_x:    9   top_y:  204   width:   21   height:   18)
+tip: 81%	(left_x:  142   top_y:  239   width:   31   height:   20)
+cal4: 94%	(left_x:  184   top_y:  387   width:   15   height:   23)
+center: 96%	(left_x:  188   top_y:  208   width:   22   height:   19)
+cal1: 99%	(left_x:  193   top_y:   42   width:   25   height:   19)
+cal2: 98%	(left_x:  388   top_y:  212   width:   15   height:   20)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/output15_jpg.rf.58ba48d98e2083fd1692676b92a6e182.jpg: Predicted in 70.883000 milli-seconds.
+cal1: 90%	(left_x:   85   top_y:  214   width:   27   height:   15)
+cal3: 93%	(left_x:   87   top_y:  347   width:   34   height:   28)
+center: 87%	(left_x:  192   top_y:  253   width:   24   height:   17)
+tip: 64%	(left_x:  206   top_y:  221   width:   16   height:   32)
+tip: 57%	(left_x:  227   top_y:  192   width:   15   height:   24)
+cal2: 88%	(left_x:  256   top_y:  195   width:   22   height:   16)
+cal4: 90%	(left_x:  340   top_y:  306   width:   26   height:   20)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/output37_jpg.rf.03d6bfede6e474a425c636ab4aaca1a7.jpg: Predicted in 70.918000 milli-seconds.
+cal4: 82%	(left_x:   29   top_y:  310   width:   29   height:   25)
+cal3: 93%	(left_x:   90   top_y:  157   width:   23   height:   16)
+tip: 86%	(left_x:  159   top_y:  228   width:   22   height:   44)
+center: 75%	(left_x:  177   top_y:  214   width:   35   height:   27)
+cal1: 56%	(left_x:  270   top_y:  158   width:   30   height:   17)
+cal2: 89%	(left_x:  316   top_y:  312   width:   33   height:   28)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_15_jpg.rf.8230eb28296d1034ddc5edd3c8efc0e8.jpg: Predicted in 70.734000 milli-seconds.
+cal3: 94%	(left_x:    6   top_y:  156   width:   29   height:   30)
+cal4: 88%	(left_x:  151   top_y:  312   width:   36   height:   26)
+center: 85%	(left_x:  167   top_y:  165   width:   27   height:   27)
+tip: 71%	(left_x:  172   top_y:  127   width:   33   height:   27)
+cal1: 88%	(left_x:  173   top_y:   24   width:   34   height:   24)
+cal2: 87%	(left_x:  326   top_y:  172   width:   29   height:   31)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images62_jpg.rf.837af54a894363066b703583953bebf5.jpg: Predicted in 70.759000 milli-seconds.
+cal4: 67%	(left_x:  100   top_y:  315   width:   29   height:   36)
+cal3: 59%	(left_x:  119   top_y:   90   width:   22   height:   24)
+tip: 71%	(left_x:  179   top_y:  117   width:   20   height:   29)
+center: 92%	(left_x:  202   top_y:  185   width:   37   height:   38)
+center: 31%	(left_x:  209   top_y:  190   width:   24   height:   27)
+tip: 63%	(left_x:  282   top_y:   89   width:   25   height:   32)
+cal1: 51%	(left_x:  296   top_y:   90   width:   22   height:   24)
+cal2: 89%	(left_x:  319   top_y:  311   width:   27   height:   31)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images83_jpg.rf.75e732257d7c73bac5c7fdef09bdaf24.jpg: Predicted in 70.732000 milli-seconds.
+cal4: 92%	(left_x:   70   top_y:  297   width:   36   height:   38)
+tip: 75%	(left_x:  167   top_y:   93   width:   29   height:   26)
+center: 90%	(left_x:  204   top_y:  149   width:   46   height:   43)
+tip: 76%	(left_x:  235   top_y:  273   width:   19   height:   25)
+cal1: 93%	(left_x:  310   top_y:   45   width:   34   height:   28)
+cal2: 95%	(left_x:  348   top_y:  294   width:   31   height:   36)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_129_jpg.rf.24d8f87a6161d7fedbfce480b6b52062.jpg: Predicted in 70.837000 milli-seconds.
+cal3: 94%	(left_x:    5   top_y:  157   width:   30   height:   30)
+tip: 88%	(left_x:   46   top_y:  165   width:   28   height:   27)
+tip: 79%	(left_x:   71   top_y:  221   width:   31   height:   29)
+cal4: 85%	(left_x:  155   top_y:  302   width:   34   height:   23)
+cal1: 93%	(left_x:  166   top_y:   24   width:   32   height:   21)
+center: 73%	(left_x:  166   top_y:  164   width:   23   height:   21)
+cal2: 82%	(left_x:  325   top_y:  157   width:   28   height:   33)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images25_jpg.rf.3898427f6b7abee7742baa99b8b1b4dc.jpg: Predicted in 70.746000 milli-seconds.
+cal2: 71%	(left_x:   15   top_y:  132   width:   29   height:   40)
+tip: 84%	(left_x:  144   top_y:  101   width:   22   height:   37)
+cal1: 70%	(left_x:  164   top_y:  377   width:   50   height:   41)
+center: 74%	(left_x:  197   top_y:  162   width:   35   height:   31)
+tip: 70%	(left_x:  201   top_y:  158   width:   28   height:   33)
+cal4: 70%	(left_x:  214   top_y:    4   width:   27   height:   29)
+cal3: 92%	(left_x:  380   top_y:  182   width:   30   height:   39)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_76_jpg.rf.8c3842d1524c375336387f110566dfdd.jpg: Predicted in 71.112000 milli-seconds.
+cal3: 27%	(left_x:  121   top_y:  171   width:   17   height:   30)
+cal4: 65%	(left_x:  188   top_y:  319   width:   22   height:   25)
+cal1: 57%	(left_x:  194   top_y:   37   width:   22   height:   26)
+center: 80%	(left_x:  198   top_y:  177   width:   13   height:   23)
+tip: 80%	(left_x:  228   top_y:  232   width:   16   height:   26)
+cal2: 61%	(left_x:  269   top_y:  176   width:   15   height:   30)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images24_jpg.rf.60d055757c21c1c23e347e63ccd07788.jpg: Predicted in 71.054000 milli-seconds.
+tip: 67%	(left_x:   57   top_y:  152   width:   23   height:   32)
+cal1: 93%	(left_x:  114   top_y:  361   width:   50   height:   54)
+center: 68%	(left_x:  185   top_y:  155   width:   29   height:   36)
+tip: 71%	(left_x:  187   top_y:  156   width:   23   height:   34)
+cal4: 78%	(left_x:  225   top_y:   12   width:   25   height:   30)
+cal3: 60%	(left_x:  352   top_y:  215   width:   29   height:   42)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-47-_jpg.rf.3424d18c7b346642cff15ad1893986d1.jpg: Predicted in 70.646000 milli-seconds.
+cal3: 95%	(left_x:   20   top_y:  201   width:   28   height:   23)
+tip: 89%	(left_x:  199   top_y:  226   width:   29   height:   22)
+cal1: 98%	(left_x:  206   top_y:   41   width:   29   height:   21)
+center: 84%	(left_x:  223   top_y:  209   width:   24   height:   20)
+cal4: 94%	(left_x:  247   top_y:  387   width:   15   height:   21)
+tip: 52%	(left_x:  297   top_y:  163   width:   27   height:   30)
+cal2: 96%	(left_x:  395   top_y:  217   width:   15   height:   20)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images86_jpg.rf.fea4561e01b328af735c04acb84663a0.jpg: Predicted in 69.049000 milli-seconds.
+cal4: 84%	(left_x:   48   top_y:  310   width:   37   height:   35)
+cal3: 78%	(left_x:   69   top_y:   52   width:   30   height:   31)
+tip: 89%	(left_x:  140   top_y:   84   width:   28   height:   34)
+center: 47%	(left_x:  185   top_y:  158   width:   43   height:   39)
+center: 39%	(left_x:  194   top_y:  156   width:   27   height:   33)
+tip: 55%	(left_x:  194   top_y:  156   width:   25   height:   33)
+tip: 28%	(left_x:  198   top_y:  152   width:   18   height:   29)
+cal1: 71%	(left_x:  291   top_y:   51   width:   34   height:   30)
+cal2: 83%	(left_x:  340   top_y:  293   width:   29   height:   38)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images17_jpg.rf.95855281305163f0a19342cd336bc186.jpg: Predicted in 69.021000 milli-seconds.
+cal2: 78%	(left_x:   62   top_y:   66   width:   32   height:   37)
+tip: 80%	(left_x:   74   top_y:  104   width:   28   height:   40)
+cal1: 93%	(left_x:   92   top_y:  340   width:   50   height:   48)
+center: 94%	(left_x:  200   top_y:  149   width:   42   height:   42)
+cal4: 68%	(left_x:  277   top_y:   19   width:   28   height:   29)
+tip: 77%	(left_x:  328   top_y:  139   width:   26   height:   30)
+cal3: 69%	(left_x:  370   top_y:  247   width:   36   height:   55)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/output18_jpg.rf.09eb7a5b7a143d58da673976287f583e.jpg: Predicted in 69.009000 milli-seconds.
+cal1: 62%	(left_x:   81   top_y:  201   width:   27   height:   17)
+cal3: 95%	(left_x:   84   top_y:  343   width:   37   height:   30)
+tip: 75%	(left_x:  187   top_y:  159   width:   17   height:   28)
+center: 83%	(left_x:  194   top_y:  242   width:   24   height:   18)
+tip: 77%	(left_x:  227   top_y:  184   width:   17   height:   25)
+cal2: 74%	(left_x:  262   top_y:  180   width:   23   height:   14)
+cal4: 87%	(left_x:  348   top_y:  298   width:   26   height:   23)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-58-_jpg.rf.9db29c0ad69cf71dac8ee7663bffee71.jpg: Predicted in 69.206000 milli-seconds.
+cal3: 95%	(left_x:   -0   top_y:  212   width:   19   height:   20)
+tip: 87%	(left_x:  172   top_y:  199   width:   14   height:   16)
+cal1: 99%	(left_x:  184   top_y:   40   width:   25   height:   18)
+center: 96%	(left_x:  192   top_y:  208   width:   22   height:   18)
+cal4: 93%	(left_x:  201   top_y:  386   width:   15   height:   22)
+cal2: 99%	(left_x:  389   top_y:  201   width:   15   height:   19)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_82_jpg.rf.63e62b60e0e446480330c9a154884e04.jpg: Predicted in 69.057000 milli-seconds.
+cal3: 89%	(left_x:    4   top_y:  158   width:   35   height:   29)
+tip: 62%	(left_x:   69   top_y:  222   width:   37   height:   29)
+cal4: 71%	(left_x:  170   top_y:  315   width:   39   height:   24)
+center: 88%	(left_x:  191   top_y:  170   width:   25   height:   22)
+cal1: 93%	(left_x:  198   top_y:   24   width:   40   height:   26)
+tip: 64%	(left_x:  214   top_y:  166   width:   29   height:   36)
+cal2: 92%	(left_x:  374   top_y:  171   width:   32   height:   32)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images78_jpg.rf.b50199786baa38de6df90606a585cdbe.jpg: Predicted in 69.028000 milli-seconds.
+cal4: 68%	(left_x:   46   top_y:  309   width:   39   height:   34)
+cal3: 89%	(left_x:   71   top_y:   54   width:   30   height:   32)
+tip: 89%	(left_x:  154   top_y:  103   width:   29   height:   34)
+center: 86%	(left_x:  184   top_y:  162   width:   44   height:   40)
+tip: 79%	(left_x:  293   top_y:  133   width:   16   height:   25)
+cal2: 53%	(left_x:  334   top_y:  300   width:   33   height:   36)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_120_jpg.rf.626ae5440c33293d5e3904c953a3ec6d.jpg: Predicted in 68.993000 milli-seconds.
+cal3: 92%	(left_x:    4   top_y:  157   width:   34   height:   30)
+tip: 73%	(left_x:  119   top_y:   63   width:   28   height:   25)
+tip: 82%	(left_x:  148   top_y:  228   width:   35   height:   32)
+cal4: 86%	(left_x:  177   top_y:  305   width:   42   height:   23)
+center: 72%	(left_x:  192   top_y:  164   width:   27   height:   22)
+cal1: 91%	(left_x:  193   top_y:   24   width:   39   height:   27)
+cal2: 85%	(left_x:  376   top_y:  163   width:   33   height:   31)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_97_jpg.rf.cb99097bdebc0d1d1832c97c96904e75.jpg: Predicted in 69.094000 milli-seconds.
+cal3: 68%	(left_x:    6   top_y:  162   width:   34   height:   31)
+cal4: 86%	(left_x:  180   top_y:  314   width:   39   height:   25)
+cal1: 89%	(left_x:  192   top_y:   23   width:   39   height:   24)
+center: 89%	(left_x:  193   top_y:  168   width:   25   height:   23)
+tip: 56%	(left_x:  206   top_y:  228   width:   25   height:   22)
+cal2: 92%	(left_x:  375   top_y:  165   width:   33   height:   32)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_72_jpg.rf.6980aa60992c9efc35effe5b618abceb.jpg: Predicted in 68.204000 milli-seconds.
+cal3: 29%	(left_x:  109   top_y:  161   width:   18   height:   33)
+tip: 75%	(left_x:  130   top_y:  164   width:   16   height:   30)
+cal4: 49%	(left_x:  175   top_y:  304   width:   24   height:   21)
+cal1: 34%	(left_x:  178   top_y:   26   width:   20   height:   30)
+center: 75%	(left_x:  181   top_y:  166   width:   13   height:   24)
+tip: 40%	(left_x:  194   top_y:  258   width:   17   height:   33)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_88_jpg.rf.4d25a851fb079e642e10f9addcec8dd8.jpg: Predicted in 68.101000 milli-seconds.
+cal3: 78%	(left_x:    5   top_y:  160   width:   32   height:   28)
+cal4: 90%	(left_x:  162   top_y:  314   width:   34   height:   22)
+cal1: 93%	(left_x:  171   top_y:   25   width:   37   height:   23)
+center: 71%	(left_x:  174   top_y:  167   width:   24   height:   23)
+tip: 46%	(left_x:  228   top_y:  189   width:   28   height:   31)
+cal2: 89%	(left_x:  335   top_y:  166   width:   28   height:   31)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/test52_jpg.rf.35f94bde87a9c3c34d1ed37eabe8ab52.jpg: Predicted in 67.873000 milli-seconds.
+cal4: 78%	(left_x:    3   top_y:  206   width:   39   height:   32)
+cal3: 47%	(left_x:  138   top_y:   58   width:   30   height:   27)
+tip: 47%	(left_x:  138   top_y:   58   width:   30   height:   27)
+tip: 36%	(left_x:  151   top_y:   56   width:   20   height:   27)
+center: 85%	(left_x:  175   top_y:  172   width:   41   height:   31)
+cal2: 80%	(left_x:  222   top_y:  309   width:   41   height:   28)
+cal1: 96%	(left_x:  345   top_y:  137   width:   34   height:   35)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/output2_jpg.rf.64205ad0b6fd761c603469b99a40efef.jpg: Predicted in 67.612000 milli-seconds.
+cal3: 93%	(left_x:   59   top_y:  249   width:   21   height:   19)
+tip: 72%	(left_x:  101   top_y:  245   width:   18   height:   26)
+tip: 70%	(left_x:  177   top_y:  184   width:   16   height:   27)
+cal1: 44%	(left_x:  189   top_y:  139   width:   25   height:   15)
+center: 93%	(left_x:  210   top_y:  233   width:   21   height:   19)
+cal4: 72%	(left_x:  242   top_y:  380   width:   20   height:   26)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-114-_jpg.rf.e8e73611cf63ced864cf5f1ea34b0878.jpg: Predicted in 68.232000 milli-seconds.
+cal3: 99%	(left_x:   11   top_y:  208   width:   21   height:   19)
+center: 99%	(left_x:  200   top_y:  211   width:   22   height:   21)
+cal4: 85%	(left_x:  201   top_y:  390   width:   14   height:   18)
+cal1: 99%	(left_x:  201   top_y:   42   width:   25   height:   19)
+tip: 61%	(left_x:  296   top_y:  167   width:   17   height:   16)
+tip: 70%	(left_x:  297   top_y:  103   width:   18   height:   22)
+tip: 51%	(left_x:  322   top_y:  186   width:   20   height:   15)
+cal2: 98%	(left_x:  391   top_y:  216   width:   14   height:   18)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_46_jpg.rf.103face5a3ed6f1a39b44de50d2be1ad.jpg: Predicted in 67.782000 milli-seconds.
+cal3: 93%	(left_x:    7   top_y:  141   width:   33   height:   26)
+tip: 76%	(left_x:  137   top_y:  152   width:   35   height:   30)
+tip: 53%	(left_x:  153   top_y:  240   width:   31   height:   26)
+cal4: 85%	(left_x:  175   top_y:  283   width:   40   height:   21)
+center: 83%	(left_x:  193   top_y:  151   width:   25   height:   22)
+cal1: 62%	(left_x:  197   top_y:   19   width:   41   height:   23)
+cal2: 91%	(left_x:  374   top_y:  151   width:   32   height:   29)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images59_jpg.rf.93b7a18d1e03663281053e57ea754be1.jpg: Predicted in 67.978000 milli-seconds.
+cal1: 75%	(left_x:   41   top_y:  125   width:   33   height:   41)
+tip: 85%	(left_x:   77   top_y:  114   width:   23   height:   43)
+tip: 83%	(left_x:  184   top_y:  217   width:   26   height:   35)
+cal3: 67%	(left_x:  192   top_y:  362   width:   38   height:   48)
+center: 95%	(left_x:  207   top_y:  143   width:   43   height:   44)
+cal2: 45%	(left_x:  224   top_y:    7   width:   28   height:   22)
+cal4: 86%	(left_x:  380   top_y:  167   width:   33   height:   38)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-70-_jpg.rf.f5735e8a04d1bb8cc3a2401ab4e26edc.jpg: Predicted in 68.003000 milli-seconds.
+cal3: 99%	(left_x:   10   top_y:  203   width:   23   height:   19)
+tip: 43%	(left_x:  189   top_y:  302   width:   34   height:   13)
+cal1: 98%	(left_x:  199   top_y:   38   width:   25   height:   19)
+center: 99%	(left_x:  200   top_y:  204   width:   22   height:   20)
+cal4: 95%	(left_x:  201   top_y:  387   width:   15   height:   22)
+tip: 95%	(left_x:  235   top_y:  161   width:   18   height:   19)
+cal2: 96%	(left_x:  391   top_y:  208   width:   14   height:   18)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images98_jpg.rf.9deb4538a758558c6d978fea25830303.jpg: Predicted in 68.066000 milli-seconds.
+cal3: 93%	(left_x:   18   top_y:  259   width:   34   height:   41)
+tip: 51%	(left_x:   58   top_y:  211   width:   19   height:   21)
+cal1: 95%	(left_x:  114   top_y:   16   width:   38   height:   42)
+center: 86%	(left_x:  194   top_y:  186   width:   24   height:   26)
+cal4: 81%	(left_x:  265   top_y:  358   width:   37   height:   33)
+cal2: 51%	(left_x:  350   top_y:  108   width:   32   height:   36)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_59_jpg.rf.4918dbc6117b1d6c79f0dc80e310158f.jpg: Predicted in 68.058000 milli-seconds.
+cal3: 94%	(left_x:    6   top_y:  156   width:   34   height:   30)
+cal4: 69%	(left_x:  173   top_y:  315   width:   43   height:   24)
+center: 75%	(left_x:  193   top_y:  168   width:   26   height:   25)
+cal1: 92%	(left_x:  199   top_y:   23   width:   41   height:   25)
+tip: 43%	(left_x:  206   top_y:  212   width:   32   height:   29)
+tip: 89%	(left_x:  246   top_y:   76   width:   35   height:   29)
+cal2: 91%	(left_x:  374   top_y:  172   width:   34   height:   32)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images45_jpg.rf.b4be154ccedbb8fa1da87ce6d13a2eb3.jpg: Predicted in 67.765000 milli-seconds.
+cal3: 69%	(left_x:   41   top_y:  296   width:   40   height:   43)
+cal1: 91%	(left_x:   70   top_y:   43   width:   34   height:   31)
+tip: 71%	(left_x:  111   top_y:  149   width:   22   height:   28)
+center: 94%	(left_x:  173   top_y:  158   width:   45   height:   44)
+tip: 63%	(left_x:  225   top_y:  136   width:   17   height:   26)
+cal2: 83%	(left_x:  284   top_y:   60   width:   24   height:   28)
+cal4: 79%	(left_x:  311   top_y:  305   width:   27   height:   34)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_107_jpg.rf.1e80d766e76ef6de8158924ba24346fc.jpg: Predicted in 67.892000 milli-seconds.
+cal3: 81%	(left_x:    6   top_y:  159   width:   29   height:   29)
+tip: 63%	(left_x:  105   top_y:   64   width:   27   height:   24)
+cal4: 86%	(left_x:  159   top_y:  314   width:   40   height:   23)
+cal1: 85%	(left_x:  172   top_y:   25   width:   36   height:   23)
+center: 65%	(left_x:  173   top_y:  166   width:   25   height:   25)
+tip: 70%	(left_x:  275   top_y:  119   width:   24   height:   25)
+cal2: 87%	(left_x:  335   top_y:  166   width:   29   height:   30)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_119_jpg.rf.16c1dda51bf6d9e23ad971fecfd9551e.jpg: Predicted in 67.804000 milli-seconds.
+cal3: 87%	(left_x:    6   top_y:  149   width:   33   height:   28)
+tip: 66%	(left_x:  156   top_y:  250   width:   27   height:   20)
+cal4: 83%	(left_x:  181   top_y:  288   width:   43   height:   20)
+tip: 74%	(left_x:  183   top_y:  153   width:   32   height:   26)
+cal1: 86%	(left_x:  191   top_y:   23   width:   41   height:   21)
+center: 70%	(left_x:  194   top_y:  153   width:   24   height:   21)
+cal2: 91%	(left_x:  377   top_y:  151   width:   33   height:   29)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-73-_jpg.rf.28e401974a3028cd67484836920e06f7.jpg: Predicted in 67.833000 milli-seconds.
+cal3: 88%	(left_x:   11   top_y:  178   width:   24   height:   20)
+tip: 65%	(left_x:  193   top_y:  274   width:   34   height:   15)
+center: 98%	(left_x:  201   top_y:  181   width:   23   height:   21)
+cal1: 99%	(left_x:  201   top_y:   30   width:   25   height:   16)
+cal4: 98%	(left_x:  203   top_y:  381   width:   16   height:   25)
+tip: 87%	(left_x:  236   top_y:  128   width:   21   height:   27)
+cal2: 97%	(left_x:  390   top_y:  185   width:   14   height:   19)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images96_jpg.rf.1506ac3baed6fc5724ce25589173d818.jpg: Predicted in 68.229000 milli-seconds.
+cal3: 87%	(left_x:   17   top_y:  263   width:   36   height:   36)
+tip: 43%	(left_x:   57   top_y:  223   width:   23   height:   22)
+tip: 61%	(left_x:  144   top_y:   72   width:   21   height:   27)
+center: 89%	(left_x:  195   top_y:  196   width:   36   height:   33)
+cal4: 82%	(left_x:  264   top_y:  364   width:   41   height:   32)
+cal2: 83%	(left_x:  365   top_y:  135   width:   31   height:   35)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/output33_jpg.rf.c5852be470444d4ece940431cef732b4.jpg: Predicted in 68.018000 milli-seconds.
+cal4: 70%	(left_x:   34   top_y:  312   width:   32   height:   28)
+cal3: 81%	(left_x:   95   top_y:  163   width:   21   height:   16)
+tip: 62%	(left_x:  180   top_y:  170   width:   18   height:   39)
+center: 63%	(left_x:  184   top_y:  223   width:   26   height:   20)
+tip: 60%	(left_x:  241   top_y:  155   width:   15   height:   33)
+cal1: 75%	(left_x:  277   top_y:  165   width:   30   height:   16)
+cal2: 89%	(left_x:  323   top_y:  318   width:   32   height:   28)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_5_jpg.rf.37142ace239b31a1a2f10e5ce75466e8.jpg: Predicted in 68.260000 milli-seconds.
+cal3: 92%	(left_x:    6   top_y:  157   width:   28   height:   32)
+cal4: 86%	(left_x:  149   top_y:  315   width:   36   height:   24)
+tip: 70%	(left_x:  152   top_y:  136   width:   26   height:   25)
+center: 65%	(left_x:  165   top_y:  169   width:   24   height:   23)
+cal1: 92%	(left_x:  170   top_y:   23   width:   36   height:   24)
+tip: 62%	(left_x:  219   top_y:  209   width:   23   height:   24)
+cal2: 84%	(left_x:  324   top_y:  171   width:   28   height:   33)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-103-_jpg.rf.c8a84a7d3bb1c0ed27b185b4f1c24ca9.jpg: Predicted in 67.624000 milli-seconds.
+cal3: 93%	(left_x:   12   top_y:  200   width:   23   height:   19)
+tip: 81%	(left_x:  182   top_y:  290   width:   26   height:   17)
+tip: 80%	(left_x:  186   top_y:   71   width:   25   height:   22)
+cal4: 98%	(left_x:  199   top_y:  388   width:   14   height:   21)
+cal1: 27%	(left_x:  200   top_y:   36   width:   32   height:   29)
+center: 98%	(left_x:  202   top_y:  207   width:   21   height:   19)
+cal2: 96%	(left_x:  392   top_y:  214   width:   14   height:   19)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/output27_jpg.rf.bedd0a8b14f05487dc4503a748d5e5e6.jpg: Predicted in 67.982000 milli-seconds.
+cal1: 74%	(left_x:   82   top_y:  206   width:   27   height:   15)
+cal3: 66%	(left_x:   91   top_y:  337   width:   32   height:   27)
+center: 90%	(left_x:  195   top_y:  243   width:   22   height:   15)
+tip: 48%	(left_x:  213   top_y:  195   width:   17   height:   35)
+cal2: 86%	(left_x:  256   top_y:  181   width:   23   height:   14)
+cal4: 90%	(left_x:  346   top_y:  290   width:   26   height:   21)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/output34_jpg.rf.9f2285d37f9287ba891ff0ed25fe74f3.jpg: Predicted in 68.350000 milli-seconds.
+cal4: 79%	(left_x:   30   top_y:  313   width:   32   height:   25)
+cal3: 92%	(left_x:   90   top_y:  166   width:   24   height:   17)
+center: 70%	(left_x:  181   top_y:  223   width:   28   height:   21)
+tip: 71%	(left_x:  238   top_y:  157   width:   15   height:   33)
+cal1: 40%	(left_x:  276   top_y:  166   width:   29   height:   17)
+tip: 29%	(left_x:  287   top_y:  169   width:   24   height:   35)
+tip: 31%	(left_x:  294   top_y:  179   width:   23   height:   28)
+cal2: 79%	(left_x:  318   top_y:  315   width:   33   height:   25)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-3-_jpg.rf.78d741ec75d84fa5df0d8f7fbf369316.jpg: Predicted in 68.216000 milli-seconds.
+cal3: 84%	(left_x:   12   top_y:  204   width:   22   height:   20)
+tip: 92%	(left_x:  146   top_y:  227   width:   19   height:   15)
+cal1: 99%	(left_x:  201   top_y:   41   width:   26   height:   18)
+center: 97%	(left_x:  206   top_y:  204   width:   23   height:   18)
+cal4: 99%	(left_x:  212   top_y:  387   width:   14   height:   23)
+tip: 85%	(left_x:  222   top_y:  214   width:   16   height:   15)
+cal2: 89%	(left_x:  402   top_y:  203   width:   12   height:   20)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/output35_jpg.rf.2e3034b59efa49e20335ee152d9f3cd0.jpg: Predicted in 67.794000 milli-seconds.
+cal4: 84%	(left_x:   30   top_y:  310   width:   29   height:   25)
+cal3: 94%	(left_x:   91   top_y:  157   width:   22   height:   16)
+center: 76%	(left_x:  181   top_y:  215   width:   28   height:   21)
+tip: 59%	(left_x:  209   top_y:  166   width:   17   height:   39)
+cal2: 45%	(left_x:  243   top_y:  142   width:   23   height:   16)
+cal1: 53%	(left_x:  273   top_y:  155   width:   27   height:   18)
+tip: 44%	(left_x:  290   top_y:  171   width:   24   height:   31)
+cal2: 81%	(left_x:  317   top_y:  310   width:   34   height:   29)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_91_jpg.rf.44b13156f6cb33610602859dcd332697.jpg: Predicted in 67.727000 milli-seconds.
+cal3: 92%	(left_x:    6   top_y:  157   width:   28   height:   30)
+tip: 62%	(left_x:  138   top_y:   54   width:   21   height:   24)
+cal4: 87%	(left_x:  149   top_y:  314   width:   37   height:   24)
+tip: 58%	(left_x:  154   top_y:  135   width:   24   height:   25)
+center: 84%	(left_x:  167   top_y:  168   width:   25   height:   24)
+cal1: 89%	(left_x:  172   top_y:   23   width:   36   height:   25)
+cal2: 88%	(left_x:  327   top_y:  171   width:   28   height:   32)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/output11_jpg.rf.f8354237cacba9e59b610381c03a9293.jpg: Predicted in 67.888000 milli-seconds.
+cal1: 72%	(left_x:   70   top_y:  181   width:   30   height:   19)
+cal3: 92%	(left_x:   85   top_y:  348   width:   35   height:   33)
+tip: 61%	(left_x:  167   top_y:  202   width:   16   height:   25)
+tip: 76%	(left_x:  185   top_y:  225   width:   18   height:   24)
+tip: 45%	(left_x:  187   top_y:  232   width:   21   height:   21)
+center: 83%	(left_x:  189   top_y:  234   width:   28   height:   21)
+cal2: 93%	(left_x:  257   top_y:  164   width:   22   height:   16)
+cal4: 81%	(left_x:  340   top_y:  306   width:   26   height:   22)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images27_jpg.rf.08cf9f61edfbb6245af1cd37e6d2ae76.jpg: Predicted in 68.410000 milli-seconds.
+cal2: 76%	(left_x:   13   top_y:  137   width:   32   height:   39)
+cal1: 69%	(left_x:  163   top_y:  379   width:   53   height:   38)
+tip: 80%	(left_x:  193   top_y:  221   width:   22   height:   26)
+center: 74%	(left_x:  197   top_y:  159   width:   27   height:   30)
+tip: 53%	(left_x:  217   top_y:   78   width:   25   height:   31)
+cal3: 89%	(left_x:  381   top_y:  176   width:   29   height:   38)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-16-_jpg.rf.3bf4d1aeee3d762f5ac5de4d76fdcf2e.jpg: Predicted in 67.882000 milli-seconds.
+tip: 95%	(left_x:   67   top_y:  220   width:   33   height:   14)
+cal4: 97%	(left_x:  185   top_y:  386   width:   15   height:   23)
+center: 80%	(left_x:  187   top_y:  212   width:   20   height:   15)
+cal1: 98%	(left_x:  189   top_y:   41   width:   23   height:   18)
+center: 62%	(left_x:  191   top_y:  210   width:   22   height:   16)
+cal2: 99%	(left_x:  387   top_y:  202   width:   15   height:   20)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images10_jpg.rf.98a053ed4ab3dd45c9843355a783f74d.jpg: Predicted in 67.674000 milli-seconds.
+cal2: 79%	(left_x:   57   top_y:   61   width:   27   height:   32)
+cal1: 95%	(left_x:   76   top_y:  319   width:   49   height:   48)
+tip: 87%	(left_x:  128   top_y:  175   width:   24   height:   27)
+center: 86%	(left_x:  191   top_y:  142   width:   43   height:   41)
+tip: 54%	(left_x:  208   top_y:  288   width:   27   height:   25)
+cal4: 65%	(left_x:  276   top_y:   21   width:   27   height:   28)
+cal3: 83%	(left_x:  367   top_y:  240   width:   41   height:   52)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images26_jpg.rf.6e13ba9a5d8726fa1e6d404a7c4d0787.jpg: Predicted in 67.674000 milli-seconds.
+cal2: 76%	(left_x:   13   top_y:  137   width:   31   height:   39)
+tip: 84%	(left_x:  141   top_y:  106   width:   23   height:   35)
+cal1: 81%	(left_x:  163   top_y:  373   width:   53   height:   45)
+center: 84%	(left_x:  192   top_y:  158   width:   40   height:   40)
+cal4: 73%	(left_x:  213   top_y:    7   width:   18   height:   22)
+tip: 71%	(left_x:  221   top_y:   83   width:   25   height:   31)
+cal3: 92%	(left_x:  381   top_y:  179   width:   29   height:   41)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-10-_jpg.rf.714d0100361a19cb7f59b315572db672.jpg: Predicted in 67.753000 milli-seconds.
+cal3: 93%	(left_x:   12   top_y:  218   width:   23   height:   19)
+tip: 78%	(left_x:  161   top_y:   59   width:   19   height:   21)
+cal1: 97%	(left_x:  192   top_y:   42   width:   29   height:   20)
+center: 99%	(left_x:  203   top_y:  212   width:   22   height:   21)
+tip: 27%	(left_x:  212   top_y:  266   width:   17   height:   14)
+cal4: 94%	(left_x:  214   top_y:  389   width:   15   height:   20)
+cal2: 96%	(left_x:  391   top_y:  208   width:   15   height:   18)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images11_jpg.rf.34b44a1df6fe0b8bd5545de30db4b9b0.jpg: Predicted in 68.387000 milli-seconds.
+cal2: 75%	(left_x:   54   top_y:   82   width:   28   height:   34)
+cal1: 97%	(left_x:   80   top_y:  332   width:   49   height:   51)
+tip: 66%	(left_x:  125   top_y:  192   width:   29   height:   35)
+tip: 70%	(left_x:  184   top_y:   88   width:   25   height:   34)
+center: 91%	(left_x:  191   top_y:  153   width:   44   height:   40)
+cal4: 71%	(left_x:  270   top_y:   35   width:   28   height:   30)
+cal3: 89%	(left_x:  369   top_y:  242   width:   38   height:   49)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-36-_jpg.rf.666de235c8490914cd9964828be22276.jpg: Predicted in 68.024000 milli-seconds.
+cal3: 98%	(left_x:   11   top_y:  213   width:   20   height:   17)
+tip: 37%	(left_x:  149   top_y:  310   width:   17   height:   14)
+tip: 45%	(left_x:  155   top_y:  307   width:   17   height:   16)
+tip: 28%	(left_x:  162   top_y:  306   width:   17   height:   17)
+center: 99%	(left_x:  186   top_y:  210   width:   23   height:   20)
+cal1: 95%	(left_x:  187   top_y:   42   width:   26   height:   19)
+cal4: 99%	(left_x:  187   top_y:  388   width:   15   height:   20)
+cal2: 99%	(left_x:  388   top_y:  208   width:   15   height:   19)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images19_jpg.rf.fed857def2b27382bfb51084a96d6c9e.jpg: Predicted in 68.149000 milli-seconds.
+cal2: 74%	(left_x:   30   top_y:   96   width:   29   height:   38)
+cal1: 91%	(left_x:  107   top_y:  367   width:   49   height:   48)
+tip: 83%	(left_x:  123   top_y:  157   width:   20   height:   30)
+center: 80%	(left_x:  179   top_y:  160   width:   38   height:   37)
+tip: 82%	(left_x:  187   top_y:  157   width:   21   height:   33)
+cal4: 82%	(left_x:  231   top_y:   13   width:   22   height:   29)
+cal3: 95%	(left_x:  343   top_y:  225   width:   32   height:   46)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images89_jpg.rf.514fe7207c8b7c1d4b94c829aeb9db3b.jpg: Predicted in 67.639000 milli-seconds.
+cal4: 97%	(left_x:   53   top_y:  309   width:   36   height:   37)
+cal3: 49%	(left_x:   61   top_y:   49   width:   31   height:   34)
+tip: 79%	(left_x:  138   top_y:   81   width:   33   height:   35)
+center: 88%	(left_x:  187   top_y:  150   width:   47   height:   43)
+tip: 66%	(left_x:  225   top_y:  279   width:   26   height:   23)
+cal1: 93%	(left_x:  290   top_y:   37   width:   38   height:   32)
+cal2: 73%	(left_x:  350   top_y:  289   width:   31   height:   34)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/output36_jpg.rf.8f0d16d48fcfdb6747aca51d09b451b8.jpg: Predicted in 68.159000 milli-seconds.
+cal4: 62%	(left_x:   32   top_y:  309   width:   29   height:   26)
+cal3: 80%	(left_x:   95   top_y:  155   width:   21   height:   15)
+center: 80%	(left_x:  183   top_y:  212   width:   25   height:   21)
+tip: 76%	(left_x:  210   top_y:  162   width:   16   height:   36)
+cal1: 67%	(left_x:  277   top_y:  153   width:   28   height:   17)
+cal2: 73%	(left_x:  319   top_y:  309   width:   32   height:   30)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images51_jpg.rf.715e2b451d58c295c05728fc97acfca5.jpg: Predicted in 68.538000 milli-seconds.
+cal1: 93%	(left_x:   92   top_y:   88   width:   25   height:   39)
+tip: 73%	(left_x:  118   top_y:   99   width:   26   height:   33)
+cal3: 68%	(left_x:  139   top_y:  357   width:   37   height:   39)
+tip: 85%	(left_x:  161   top_y:  191   width:   22   height:   25)
+center: 88%	(left_x:  223   top_y:  168   width:   42   height:   44)
+cal2: 68%	(left_x:  294   top_y:   38   width:   26   height:   31)
+cal4: 93%	(left_x:  377   top_y:  260   width:   28   height:   42)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/output1_jpg.rf.24c6c99c01fc9b8cb44bc82ee0e2b237.jpg: Predicted in 68.097000 milli-seconds.
+cal3: 83%	(left_x:   58   top_y:  273   width:   20   height:   16)
+tip: 34%	(left_x:  134   top_y:  207   width:   16   height:   24)
+tip: 39%	(left_x:  141   top_y:  209   width:   16   height:   22)
+cal1: 40%	(left_x:  174   top_y:  174   width:   26   height:   14)
+center: 83%	(left_x:  192   top_y:  258   width:   18   height:   17)
+cal4: 97%	(left_x:  220   top_y:  385   width:   16   height:   22)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-72-_jpg.rf.96957177d3254b57dbc79b30f150f7a9.jpg: Predicted in 67.567000 milli-seconds.
+cal3: 99%	(left_x:   10   top_y:  234   width:   24   height:   19)
+cal1: 99%	(left_x:  196   top_y:   49   width:   28   height:   22)
+tip: 55%	(left_x:  202   top_y:  325   width:   35   height:   18)
+center: 99%	(left_x:  203   top_y:  229   width:   22   height:   19)
+cal4: 95%	(left_x:  210   top_y:  392   width:   14   height:   18)
+tip: 66%	(left_x:  243   top_y:  192   width:   14   height:   14)
+cal2: 99%	(left_x:  391   top_y:  226   width:   14   height:   16)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/test50_jpg.rf.c6f923391602fd638a0cecf1bece6f07.jpg: Predicted in 68.206000 milli-seconds.
+cal4: 83%	(left_x:    4   top_y:  221   width:   40   height:   33)
+cal3: 89%	(left_x:  147   top_y:   56   width:   33   height:   32)
+center: 80%	(left_x:  182   top_y:  189   width:   41   height:   35)
+tip: 35%	(left_x:  189   top_y:   55   width:   19   height:   20)
+cal2: 60%	(left_x:  223   top_y:  340   width:   39   height:   27)
+cal1: 82%	(left_x:  361   top_y:  157   width:   39   height:   44)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/output12_jpg.rf.7ab2e9c8d8d3b5cd9dc43869c14e36cd.jpg: Predicted in 67.983000 milli-seconds.
+cal1: 69%	(left_x:   73   top_y:  164   width:   30   height:   21)
+cal3: 95%	(left_x:   88   top_y:  344   width:   35   height:   35)
+tip: 77%	(left_x:  188   top_y:  217   width:   18   height:   21)
+center: 70%	(left_x:  191   top_y:  223   width:   29   height:   22)
+cal2: 89%	(left_x:  260   top_y:  146   width:   21   height:   16)
+cal4: 91%	(left_x:  342   top_y:  295   width:   27   height:   29)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_13_jpg.rf.7a8e43621a607f67b889d3189dbee471.jpg: Predicted in 67.763000 milli-seconds.
+cal3: 83%	(left_x:    4   top_y:  145   width:   36   height:   26)
+tip: 79%	(left_x:   69   top_y:  224   width:   27   height:   22)
+cal4: 84%	(left_x:  180   top_y:  282   width:   42   height:   22)
+center: 80%	(left_x:  195   top_y:  153   width:   23   height:   20)
+cal1: 81%	(left_x:  195   top_y:   23   width:   37   height:   20)
+cal2: 89%	(left_x:  378   top_y:  149   width:   31   height:   30)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-113-_jpg.rf.9fdfc042e44e6a808c605cc6c5624fe6.jpg: Predicted in 68.136000 milli-seconds.
+cal3: 92%	(left_x:   10   top_y:  199   width:   24   height:   19)
+tip: 43%	(left_x:  183   top_y:  217   width:   13   height:   13)
+cal4: 98%	(left_x:  201   top_y:  387   width:   15   height:   22)
+cal1: 83%	(left_x:  203   top_y:   38   width:   27   height:   18)
+center: 46%	(left_x:  204   top_y:  210   width:   21   height:   15)
+tip: 75%	(left_x:  239   top_y:  319   width:   29   height:   15)
+cal2: 99%	(left_x:  392   top_y:  211   width:   13   height:   17)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-89-_jpg.rf.300cf806416ab8de11ef349a8d13557d.jpg: Predicted in 67.892000 milli-seconds.
+cal3: 96%	(left_x:   11   top_y:  207   width:   24   height:   19)
+tip: 98%	(left_x:  174   top_y:  179   width:   15   height:   18)
+cal1: 97%	(left_x:  202   top_y:   41   width:   26   height:   18)
+center: 96%	(left_x:  204   top_y:  213   width:   20   height:   17)
+cal4: 97%	(left_x:  208   top_y:  388   width:   14   height:   20)
+cal2: 98%	(left_x:  392   top_y:  214   width:   13   height:   18)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-19-_jpg.rf.64a77917164098cc5030723c40b67453.jpg: Predicted in 67.868000 milli-seconds.
+cal3: 93%	(left_x:   10   top_y:  213   width:   24   height:   19)
+tip: 71%	(left_x:   85   top_y:  225   width:   16   height:   14)
+cal1: 99%	(left_x:  191   top_y:   41   width:   25   height:   18)
+center: 99%	(left_x:  201   top_y:  208   width:   23   height:   19)
+cal4: 99%	(left_x:  213   top_y:  388   width:   14   height:   20)
+tip: 92%	(left_x:  227   top_y:  214   width:   16   height:   14)
+cal2: 99%	(left_x:  391   top_y:  202   width:   14   height:   18)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images48_jpg.rf.82791db8f37906e575cb33afb7274d7c.jpg: Predicted in 68.189000 milli-seconds.
+cal3: 69%	(left_x:   29   top_y:  100   width:   32   height:   32)
+cal4: 78%	(left_x:   95   top_y:  347   width:   46   height:   39)
+tip: 70%	(left_x:  149   top_y:  284   width:   28   height:   31)
+tip: 63%	(left_x:  168   top_y:   93   width:   19   height:   29)
+center: 94%	(left_x:  180   top_y:  168   width:   36   height:   33)
+cal1: 92%	(left_x:  234   top_y:   37   width:   34   height:   34)
+cal2: 92%	(left_x:  347   top_y:  243   width:   29   height:   36)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_31_jpg.rf.83a1d1f01060afe28861c918382cdc9f.jpg: Predicted in 68.358000 milli-seconds.
+cal3: 78%	(left_x:    4   top_y:  160   width:   29   height:   35)
+tip: 86%	(left_x:   45   top_y:  170   width:   30   height:   29)
+cal4: 89%	(left_x:  154   top_y:  313   width:   34   height:   23)
+cal1: 92%	(left_x:  164   top_y:   25   width:   35   height:   23)
+center: 63%	(left_x:  166   top_y:  168   width:   23   height:   23)
+tip: 73%	(left_x:  231   top_y:   71   width:   32   height:   27)
+cal2: 86%	(left_x:  324   top_y:  163   width:   28   height:   34)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-83-_jpg.rf.00d71d4bf95ba46dcf092f2514eab9bd.jpg: Predicted in 68.204000 milli-seconds.
+cal3: 91%	(left_x:   34   top_y:  150   width:   32   height:   26)
+cal1: 87%	(left_x:  239   top_y:   32   width:   30   height:   24)
+center: 89%	(left_x:  245   top_y:  190   width:   20   height:   23)
+cal4: 99%	(left_x:  251   top_y:  383   width:   15   height:   24)
+tip: 89%	(left_x:  273   top_y:  218   width:   34   height:   18)
+tip: 91%	(left_x:  286   top_y:  184   width:   25   height:   22)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-121-_jpg.rf.6f22fea20341db6f9e44bce40dd89146.jpg: Predicted in 67.973000 milli-seconds.
+cal3: 81%	(left_x:   11   top_y:  199   width:   25   height:   19)
+center: 99%	(left_x:  204   top_y:  203   width:   22   height:   19)
+cal1: 98%	(left_x:  205   top_y:   38   width:   25   height:   18)
+cal4: 99%	(left_x:  205   top_y:  386   width:   15   height:   22)
+tip: 92%	(left_x:  209   top_y:  249   width:   19   height:   14)
+tip: 43%	(left_x:  263   top_y:  268   width:   15   height:   13)
+tip: 68%	(left_x:  311   top_y:  141   width:   14   height:   14)
+cal2: 98%	(left_x:  392   top_y:  208   width:   13   height:   18)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images18_jpg.rf.ab233b80fc0eabe604e4f348e948f467.jpg: Predicted in 67.639000 milli-seconds.
+cal2: 63%	(left_x:   54   top_y:   97   width:   27   height:   36)
+cal1: 97%	(left_x:   78   top_y:  368   width:   50   height:   47)
+tip: 56%	(left_x:  132   top_y:  167   width:   20   height:   28)
+center: 96%	(left_x:  191   top_y:  181   width:   44   height:   41)
+tip: 72%	(left_x:  244   top_y:   78   width:   21   height:   31)
+cal4: 66%	(left_x:  277   top_y:   53   width:   27   height:   26)
+cal3: 75%	(left_x:  366   top_y:  285   width:   42   height:   51)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images8_jpg.rf.e58bb6be9ec4b17ed7be0bd84dede859.jpg: Predicted in 67.727000 milli-seconds.
+cal2: 78%	(left_x:   54   top_y:   88   width:   26   height:   34)
+cal1: 82%	(left_x:   81   top_y:  326   width:   48   height:   46)
+tip: 85%	(left_x:  177   top_y:   93   width:   23   height:   31)
+center: 86%	(left_x:  188   top_y:  160   width:   46   height:   38)
+cal4: 75%	(left_x:  267   top_y:   43   width:   28   height:   31)
+tip: 72%	(left_x:  321   top_y:  229   width:   25   height:   26)
+cal1: 37%	(left_x:  359   top_y:  145   width:   39   height:   39)
+cal3: 71%	(left_x:  368   top_y:  250   width:   39   height:   50)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-28-_jpg.rf.9c6bdfc931e5ddcf81474a6881213b07.jpg: Predicted in 68.210000 milli-seconds.
+cal3: 97%	(left_x:   10   top_y:  205   width:   22   height:   19)
+cal1: 99%	(left_x:  197   top_y:   41   width:   28   height:   19)
+cal4: 96%	(left_x:  198   top_y:  387   width:   16   height:   22)
+center: 98%	(left_x:  199   top_y:  207   width:   22   height:   21)
+tip: 71%	(left_x:  215   top_y:  302   width:   27   height:   16)
+tip: 87%	(left_x:  221   top_y:  103   width:   18   height:   25)
+cal2: 99%	(left_x:  391   top_y:  212   width:   13   height:   18)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_32_jpg.rf.97ff65ba2266c1b28e441c14322eb066.jpg: Predicted in 68.011000 milli-seconds.
+cal3: 94%	(left_x:    6   top_y:  158   width:   28   height:   29)
+cal4: 87%	(left_x:  153   top_y:  314   width:   37   height:   23)
+tip: 64%	(left_x:  164   top_y:   89   width:   35   height:   31)
+center: 82%	(left_x:  167   top_y:  166   width:   26   height:   25)
+cal1: 92%	(left_x:  170   top_y:   24   width:   34   height:   24)
+cal2: 88%	(left_x:  326   top_y:  169   width:   29   height:   31)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/-37-_jpg.rf.84a78b43a493e8e288a09c567eafbcf5.jpg: Predicted in 67.928000 milli-seconds.
+cal3: 90%	(left_x:   11   top_y:  213   width:   24   height:   20)
+tip: 42%	(left_x:   85   top_y:  183   width:   15   height:   14)
+tip: 93%	(left_x:   85   top_y:  189   width:   13   height:   13)
+cal1: 96%	(left_x:  196   top_y:   42   width:   26   height:   19)
+center: 96%	(left_x:  204   top_y:  209   width:   21   height:   18)
+cal4: 93%	(left_x:  216   top_y:  387   width:   14   height:   20)
+cal2: 99%	(left_x:  392   top_y:  205   width:   14   height:   18)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_67_jpg.rf.56072fe18e633f11061e3c012aded9fa.jpg: Predicted in 68.150000 milli-seconds.
+tip: 48%	(left_x:  188   top_y:  173   width:   14   height:   29)
+cal4: 42%	(left_x:  199   top_y:  313   width:   26   height:   26)
+center: 87%	(left_x:  206   top_y:  169   width:   13   height:   25)
+cal2: 31%	(left_x:  273   top_y:  162   width:   17   height:   37)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_36_jpg.rf.6d294cebedd9aed81d2fb724a7c29315.jpg: Predicted in 68.114000 milli-seconds.
+cal3: 65%	(left_x:    6   top_y:  161   width:   24   height:   28)
+cal4: 67%	(left_x:  126   top_y:  314   width:   32   height:   22)
+center: 90%	(left_x:  140   top_y:  168   width:   20   height:   23)
+cal1: 92%	(left_x:  140   top_y:   25   width:   31   height:   22)
+tip: 61%	(left_x:  158   top_y:   80   width:   22   height:   27)
+tip: 54%	(left_x:  236   top_y:  162   width:   26   height:   33)
+cal2: 77%	(left_x:  273   top_y:  166   width:   23   height:   32)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_95_jpg.rf.e3bdd3837b67abba377c8ddf1a5efcde.jpg: Predicted in 68.721000 milli-seconds.
+cal3: 87%	(left_x:    4   top_y:  155   width:   31   height:   27)
+tip: 31%	(left_x:  131   top_y:  259   width:   21   height:   20)
+tip: 26%	(left_x:  136   top_y:  258   width:   24   height:   22)
+cal4: 72%	(left_x:  155   top_y:  295   width:   32   height:   21)
+cal1: 91%	(left_x:  164   top_y:   25   width:   34   height:   21)
+center: 61%	(left_x:  166   top_y:  159   width:   23   height:   23)
+tip: 71%	(left_x:  263   top_y:  160   width:   27   height:   27)
+cal2: 61%	(left_x:  323   top_y:  156   width:   28   height:   29)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/a_11_jpg.rf.4c575dc9906bab0e3f1b53dbe57137e4.jpg: Predicted in 68.956000 milli-seconds.
+cal3: 87%	(left_x:    5   top_y:  158   width:   31   height:   30)
+cal4: 88%	(left_x:  154   top_y:  314   width:   37   height:   23)
+center: 86%	(left_x:  167   top_y:  166   width:   26   height:   26)
+cal1: 92%	(left_x:  170   top_y:   24   width:   36   height:   24)
+tip: 88%	(left_x:  187   top_y:   78   width:   30   height:   29)
+tip: 66%	(left_x:  223   top_y:  133   width:   24   height:   28)
+cal2: 89%	(left_x:  328   top_y:  167   width:   30   height:   32)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/images50_jpg.rf.db57470a19b3f3497fbcd53c5d081de3.jpg: Predicted in 68.844000 milli-seconds.
+cal1: 96%	(left_x:   61   top_y:   87   width:   31   height:   37)
+cal3: 64%	(left_x:  116   top_y:  349   width:   38   height:   41)
+tip: 84%	(left_x:  130   top_y:  175   width:   22   height:   28)
+center: 80%	(left_x:  196   top_y:  156   width:   40   height:   37)
+cal2: 58%	(left_x:  257   top_y:   28   width:   25   height:   29)
+tip: 80%	(left_x:  305   top_y:  190   width:   24   height:   29)
+cal4: 66%	(left_x:  354   top_y:  231   width:   32   height:   44)
+Enter Image Path: 
